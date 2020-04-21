@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Mobile2020Project</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_home_fragment">Hello Home fragment</string>
+    <string name="hello_dashboard_fragment">Hello Dashboard fragment</string>
+    <string name="hello_notification_fragment">Hello Notification fragment</string>
+    <string name="home_frag">Home</string>
+    <string name="dashboard_frag">Dashboard</string>
+    <string name="notification_frag">Fragment</string>
+</resources>
